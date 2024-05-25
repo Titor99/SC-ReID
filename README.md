@@ -4,12 +4,12 @@
 ## Download VS-Clothes Dataset 
 百度网盘：链接：https://pan.baidu.com/s/1aCvw1P5DgAdLq-Rim508nA?pwd=ccpr 提取码：ccpr 
 
-GoogleDrive：
+GoogleDrive：https://drive.google.com/file/d/126Fe1O_-xjyns9F8-tBQcrtAygrAOW11/view?usp=drive_link
 
 ## Download Pretained model 
 百度网盘：链接：https://pan.baidu.com/s/1Ix8gmD0kys7ZbuHRMbAcHw?pwd=ccpr 提取码：ccpr 
 
-GoogleDrive：
+GoogleDrive：https://drive.google.com/drive/folders/1jvHh_BKXQpnQACI2dUttgrCCcqBsKpBf?usp=drive_link
 
 Put pretained model file into ‘models’ folder
 
