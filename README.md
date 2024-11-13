@@ -1,6 +1,9 @@
 # Codes for 《Same-clothes person re-identification with dual-stream network》
 (https://doi.org/10.1007/s00530-024-01269-0)
 
+## Download Training Dataset 
+百度网盘：链接: https://pan.baidu.com/s/1iOVUiRiArtfqVqx3BsFamg?pwd=pmu3 提取码: pmu3 
+
 ## Download VS-Clothes Dataset 
 百度网盘：链接：https://pan.baidu.com/s/1aCvw1P5DgAdLq-Rim508nA?pwd=ccpr 提取码：ccpr 
 
