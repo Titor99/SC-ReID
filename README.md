@@ -18,6 +18,8 @@ Put pretained model file into ‘models’ folder
 
 Start with 'train.py'
 
+It should be noted that there is a bias in the validation method of the ltcc dataset in this project, and the precise validation method of the ltcc dataset will be updated later.
+
 Citation:
 
     Wu, Z., Hu, Z. & Ding, J. Same-clothes person re-identification with dual-stream network. Multimedia Systems 30, 70 (2024). https://doi.org/10.1007/s00530-024-01269-0
